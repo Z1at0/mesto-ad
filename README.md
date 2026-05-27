@@ -4,7 +4,7 @@
 
 ## Опубликованный проект
 
-🔗 [Открыть на GitHub Pages](https://ily149.github.io/mesto-ad/)
+🔗 [Открыть на GitHub Pages](https://Z1at0.github.io/mesto-ad/)
 
 ## Технологии
 
